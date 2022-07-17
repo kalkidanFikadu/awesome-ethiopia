@@ -1,2 +1,2 @@
-# awesome-ethiopia
-All ethiopian github
+# Awesome Ethiopia
+All Ethiopian github
